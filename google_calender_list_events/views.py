@@ -4,6 +4,7 @@ from django.shortcuts import redirect, render
 from django.urls import reverse
 import json
 # Replace with your own client ID and secret
+# Client ID and Client secrets are dummy ones. They are not working anymore. 
 CLIENT_ID = '599189350231-9tdurvjgltfbes14ophjpfpm4t4ja8a6.apps.googleusercontent.com'
 CLIENT_SECRET = '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'
 
